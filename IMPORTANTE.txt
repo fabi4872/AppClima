@@ -1,0 +1,4 @@
+La api de la consigna estaba caída. Debido a esto consumí la siguiente: https://developer.weatherunlocked.com/
+
+El ajax siempre consume el recurso de una sola url (current), debido a que me tenía que suscribir a un abono de mensual en dólares, 
+para consumir los siguientes servicios: clima por 5 días y clima por fechas.
